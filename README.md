@@ -176,25 +176,3 @@ http://localhost:3000
 * GitHub: [https://github.com/prem1kr](https://github.com/prem1kr)
 * LinkedIn: [https://www.linkedin.com/in/prem-kumar-3b38b1290/](https://www.linkedin.com/in/prem-kumar-3b38b1290/)
 
----
-
-## 📸 Screenshots
-
-```
-Screenshot 2025-03-21 222302.png
-Screenshot 2025-03-21 222321.png
-Screenshot 2025-03-21 224333.png
-Screenshot 2025-03-21 224346.png
-Screenshot 2025-03-21 224358.png
-Screenshot 2025-03-21 224407.png
-Screenshot 2025-03-21 224419.png
-Screenshot 2025-03-21 222431.png
-Screenshot 2025-03-21 222440.png
-Screenshot 2025-03-21 222457.png
-```
-
----
-
-
-
-If you want, I can also give you a **more professional GitHub-ready README (with badges, tech stack icons, and preview section)** 🚀
